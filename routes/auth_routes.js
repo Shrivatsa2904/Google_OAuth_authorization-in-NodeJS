@@ -25,7 +25,7 @@ router.get('/google/redirect',passport.authenticate('google'),(req,res) => {
     let transporter = nodemailer.createTransport({
         host:'smtp.mailtrap.io',
         auth: {
-            user: '0859dbc8cc6a1c',
+            user: '0859dbc8cc6a1c',//replace these cresentials with your credentials
             pass: '5d3b1acdb9a9f1'
         }
     });
