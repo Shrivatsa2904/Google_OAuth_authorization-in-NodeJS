@@ -2,7 +2,7 @@ Author : Shrivatsa KS
 
 Instructions to run the project
 
-1) git clone git clone https://github.com/Shrivatsa2904/quick_work_assignment.git // This will clone the repository to local machine.
+1)  git clone https://github.com/Shrivatsa2904/quick_work_assignment.git // This will clone the repository to local machine.
 2) npm install cookie-session ejs express nodemailer passport passport-google-oauth20
 
  // Instruction 2 will install all the dependencies for the project.
